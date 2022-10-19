@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\GB\tz3\bin\Debug\net6.0\tz3.exe
+C:\Users\HOME\Desktop\GB\tz3\bin\Debug\net6.0\tz3.deps.json
+C:\Users\HOME\Desktop\GB\tz3\bin\Debug\net6.0\tz3.runtimeconfig.json
+C:\Users\HOME\Desktop\GB\tz3\bin\Debug\net6.0\tz3.dll
+C:\Users\HOME\Desktop\GB\tz3\bin\Debug\net6.0\tz3.pdb
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\tz3.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\tz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\tz3.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\tz3.AssemblyInfo.cs
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\tz3.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\tz3.dll
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\refint\tz3.dll
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\tz3.pdb
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\tz3.genruntimeconfig.cache
+C:\Users\HOME\Desktop\GB\tz3\obj\Debug\net6.0\ref\tz3.dll
